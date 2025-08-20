@@ -13,7 +13,7 @@ This repository contains scripts to automate data validation and reporting for b
 - Libraries: `psycopg2`, `pandas`, `matplotlib` (install via `pip install -r requirements.txt`)
 
 ## Setup
-1. Clone the repository: `git clone https://github.com/yourusername/banking-data-validation.git`
+1. Clone the repository: `git clonehttps://github.com/gitslem/Banking-Data-Validation`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Update `DB_PARAMS` in `validate_transactions.py` with your database credentials.
 4. Run the validation script: `python scripts/validate_transactions.py`
