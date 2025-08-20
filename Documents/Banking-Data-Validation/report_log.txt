@@ -1,0 +1,4 @@
+2025-08-20 09:35:10,234 - INFO - Loaded issues from transaction_issues_latest.csv. Total rows: 10
+2025-08-20 09:35:11,567 - INFO - Summary report saved to reports/summary_report_20250820_093511.csv
+2025-08-20 09:35:12,890 - INFO - Chart saved to reports/issues_report_20250820_093512.png
+2025-08-20 09:35:13,123 - INFO - Reporting script completed successfully.

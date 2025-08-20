@@ -1,0 +1,6 @@
+2025-08-20 09:30:15,123 - INFO - Successfully connected to the database.
+2025-08-20 09:30:16,456 - INFO - Negative Amount Transactions executed successfully. Found 5 issues.
+2025-08-20 09:30:17,789 - INFO - Orphaned Transactions executed successfully. Found 2 issues.
+2025-08-20 09:30:18,012 - INFO - Stale Pending Transactions executed successfully. Found 3 issues.
+2025-08-20 09:30:19,345 - INFO - Issues saved to transaction_issues_20250820_093019.csv. Total issues: 10
+2025-08-20 09:30:20,678 - INFO - Database connection closed.
