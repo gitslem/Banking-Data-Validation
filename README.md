@@ -1,4 +1,4 @@
-This repository contains scripts to automate data validation and reporting for banking systems, demonstrating a 15% improvement in operational efficiency by reducing manual validation and reporting efforts.
+This repository contains scripts to automate data validation and reporting for banking systems, demonstrating improvement in operational efficiency by reducing manual validation and reporting efforts.
 
 Overview
 data_validation.sql: SQL queries to validate transaction data (e.g., negative amounts, orphaned transactions, stale pending transactions).
@@ -9,7 +9,7 @@ Python 3.x
 PostgreSQL database
 Libraries: psycopg2, pandas, matplotlib (install via pip install -r requirements.txt)
 Setup
-Clone the repository: git clone https://github.com/yourusername/banking-data-validation.git
+Clone the repository: git clone https://github.com/gitslem/Banking-Data-Validation
 Install dependencies: pip install -r requirements.txt
 Update DB_PARAMS in validate_transactions.py with your database credentials.
 Run the validation script: python scripts/validate_transactions.py
