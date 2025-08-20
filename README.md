@@ -14,7 +14,7 @@ Python 3.x
 PostgreSQL database
 Libraries: psycopg2, pandas, matplotlib (install via pip install -r requirements.txt)
 Setup
-Clone the repository: git clone https://github.com/yourusername/banking-data-validation.git
+Clone the repository: git clone https://github.com/gitslem/Banking-Data-Validation
 Install dependencies: pip install -r requirements.txt
 Update DB_PARAMS in validate_transactions.py with your database credentials.
 Run the validation script: python scripts/validate_transactions.py
